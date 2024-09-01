@@ -1,2 +1,3 @@
-# .github
-MathPorkOrg
+# MathPorkOrg
+
+we make math super ez
